@@ -1,0 +1,18 @@
+---
+title: "About Me"
+format: html
+---
+
+## 👋 Hello, I'm Guowei Yan
+
+I'm currently studying **Business Analytics** at Boston University.  
+My interests include:
+
+# My Interests and Hobbies
+
+I believe in maintaining a well-rounded life by balancing professional pursuits with a range of hobbies and passions. Here are a few areas that inspire and motivate me:
+
+## Outdoor Adventures
+- **Hiking & Exploring Nature:** I enjoy venturing into nature, discovering scenic trails, and taking in breathtaking views.
+- **Cycling:** Whether on the road or off-road, cycling is my way of staying active and exploring new environments.
+---

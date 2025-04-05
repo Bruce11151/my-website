@@ -1,0 +1,15 @@
+---
+title: "Welcome"
+format: html
+---
+
+# Welcome to My Website
+
+This is my personal site built with Quarto.
+
+**Explore More:**
+
+- [About Me](about.qmd)
+- [Projects](projects.qmd)
+- [CV](cv.qmd)
+- [Contact]（contact.qmd）
