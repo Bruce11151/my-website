@@ -1,0 +1,51 @@
+---
+title: "Curriculum Vitae"
+format: html
+---
+
+## Personal Information
+
+- **Name:Guowei
+- **Email:Guowei Yan
+- **Location:** Boston, MA, USA
+- **GitHub:https://github.com/Bruce11151
+
+## Education
+
+**Boston University** — *Master of Science in Applied Business Analytics*  
+_Expected Graduation: April 2024_  
+
+- Focus on data-driven decision making, predictive modeling, and business strategy.  
+- Relevant coursework: Advanced Analytics, Data Visualization, Big Data Management, and Machine Learning.
+
+- Graduated with honors.  
+- Participated in research projects related to supply chain management and market analysis.
+
+## Professional Experience
+
+**Intern, Investment Department**  
+*Guangzhou Commercial Real Estate Company*  
+_June 2023 – August 2023_  
+- Assisted in AI predictive modeling for startup viability and mall traffic analysis.  
+- Developed dashboards using Power BI and Excel to track key performance indicators.
+
+**Intern, Zhengwen Investment Co., Ltd**  
+_January 2023 – March 2023_  
+- Supported corporate valuation, financial due diligence, and audit procedures.
+
+## Projects
+
+**Tesla Supply Chain Analysis**  
+- Led a team to analyze Tesla’s global logistics and supply chain performance.  
+- Compiled and visualized data to identify potential bottlenecks and risks.
+
+## Skills
+
+- **Technical:** R, Python, SQL, Excel, Power BI, Tableau  
+- **Analytical:** Predictive modeling, data visualization, statistical analysis  
+- **Soft Skills:** Communication, teamwork, problem-solving, time management
+
+## Additional Information
+
+- **Languages:** English, Mandarin  
+- **Interests:** Data science, artificial intelligence applications in business, market research
